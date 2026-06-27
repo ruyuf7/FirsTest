@@ -1,4 +1,3 @@
-# iris-lda-logistic-regression
 # Iris Species Classification using Linear Discriminant Analysis (LDA) and Logistic Regression
 
 ## Overview
